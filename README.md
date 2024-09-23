@@ -7,4 +7,4 @@
 * Return sentiment results from a 'GET' API as percentages to provide a summary of public sentiment.
 
 ## Usage
-Note: To use this API, a PRO account for X (Twitter) API v2 is necesary (credentials are available in Twitter Developer Portal).
+Note: To use this API, a PRO account for X (Twitter) API v2 is necessary (credentials are available in Twitter Developer Portal).
